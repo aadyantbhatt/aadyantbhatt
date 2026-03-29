@@ -1,4 +1,7 @@
-## Hi there 👋
+Aadyant25BAI11331 
+
+Name - Aadyant Bhatt Reg No - 25BAI11331
+This Year Goal - To score well in academics and develop coding skills 
 
 <!--
 **aadyantbhatt/aadyantbhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
